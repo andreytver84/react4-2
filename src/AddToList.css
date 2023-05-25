@@ -1,0 +1,28 @@
+.AddToList {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #f0f0f0;
+    border-radius: 5px;
+}
+
+.wrap {
+    padding: 10px;
+}
+
+.wrap.wrap-btn {
+    display: flex;
+    align-items: flex-end;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+ 
+button {
+    padding: 10px 20px;
+    margin: 10px 0;
+    cursor: pointer;
+}
